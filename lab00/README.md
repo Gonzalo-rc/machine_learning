@@ -1,2 +1,13 @@
-    #00_EDA
-El objetivo de este ejercicio es realizar un análisis exploratorio de la base de datos de los diamantes.
+ESTRUCTURA
+
+README.md <- The top-level README for developers.
+
+data<- necessaries csvs
+
+enviroments<-enviroments of  the notebook.
+
+html <- html of the jupyter notebooks.
+
+notebooks <- Jupyter notebooks.
+
+references <- Data dictionaries, manuals, etc.
